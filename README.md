@@ -6,8 +6,8 @@ Este repositorio agrupa tareas/prácticas en carpetas por entrega.
 ```
 estructura-de-datos/
 ├── tareas/
-│   ├── 01-analisis-de-redes/
-│   ├── 02-array2d-ajedrez/
+│   ├── 01-Programa-Redes-Sociales/
+│   ├── 02-Programa-Array2D-Ajedrez/
 │   └── 03-<próximas-tareas>/
 └── README.md
 ```
