@@ -8,6 +8,7 @@ estructura-de-datos/
 ├── tareas/
 │   ├── 01-Programa-Redes-Sociales/
 │   ├── 02-Programa-Array2D-Ajedrez/
-│   └── 03-<próximas-tareas>/
+│   ├── 03-Juego-Vida-Array2d/
+│   └── 04-<próximas-tareas>/
 └── README.md
 ```
