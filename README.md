@@ -9,6 +9,7 @@ estructura-de-datos/
 │   ├── 01-Programa-Redes-Sociales/
 │   ├── 02-Programa-Array2D-Ajedrez/
 │   ├── 03-Juego-Vida-Array2d/
-│   └── 04-<próximas-tareas>/
+│   ├── 04-SetADT-Completo/
+│   └── 05-<próximas-tareas>/
 └── README.md
 ```
