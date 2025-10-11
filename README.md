@@ -11,6 +11,7 @@ estructura-de-datos/
 │   ├── 03-Juego-Vida-Array2d/
 │   ├── 04-SetADT-Completo/
 │   └── 05-Lista-Ligada-Terminada
-│   └── 06-<próximas-tareas>/
+│   └── 06-Cola-de-Pacientes
+│   └── 07-<próximas-tareas>/
 └── README.md
 ```
