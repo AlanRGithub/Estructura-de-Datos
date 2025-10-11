@@ -10,6 +10,7 @@ estructura-de-datos/
 │   ├── 02-Programa-Array2D-Ajedrez/
 │   ├── 03-Juego-Vida-Array2d/
 │   ├── 04-SetADT-Completo/
-│   └── 05-<próximas-tareas>/
+│   └── 05-Lista-Ligada-Terminada
+│   └── 06-<próximas-tareas>/
 └── README.md
 ```
