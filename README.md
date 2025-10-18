@@ -12,6 +12,7 @@ estructura-de-datos/
 │   ├── 04-SetADT-Completo/
 │   └── 05-Lista-Ligada-Terminada
 │   └── 06-Cola-de-Pacientes
-│   └── 07-<próximas-tareas>/
+│   └── 07-Balanceo-de-Codigo-Fuente-con-Pila
+│   └── 08-<próximas-tareas>/
 └── README.md
 ```
