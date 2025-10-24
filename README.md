@@ -10,9 +10,10 @@ estructura-de-datos/
 │   ├── 02-Programa-Array2D-Ajedrez/
 │   ├── 03-Juego-Vida-Array2d/
 │   ├── 04-SetADT-Completo/
-│   └── 05-Lista-Ligada-Terminada
-│   └── 06-Cola-de-Pacientes
-│   └── 07-Balanceo-de-Codigo-Fuente-con-Pila
-│   └── 08-<próximas-tareas>/
+│   └── 05-Lista-Ligada-Terminada/
+│   └── 06-Cola-de-Pacientes/
+│   └── 07-Balanceo-de-Codigo-Fuente-con-Pila/
+│   └── 08-Ejemplo-HashMap-Java/
+│   └── 09-<próximas-tareas>/
 └── README.md
 ```
