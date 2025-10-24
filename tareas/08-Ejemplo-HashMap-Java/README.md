@@ -4,7 +4,7 @@
 **Asignatura**: Estructura de Datos  
 **Grupo**: 1359  
 **Profesor**: Hernández Cabrera Jesús  
-**Fecha de Entrega**: 24/10/2025  
+**Fecha de Entrega**: 24/10/2025
 
 **Objetivo**: Implementar en Java un catálogo de videojuegos usando la clase `HashMap` de la API Collections que:
 - Defina una clase propia `Videojuego` con `titulo`, `estudio`, `anio` e `id`.
@@ -12,10 +12,10 @@
 - Muestre el contenido completo del mapa por consola.
 - Obtenga el valor de dos elementos previamente insertados con `get`.
 - Elimine dos elementos a elección con `remove`.
-- Vuelva a mostrar el contenido del mapa para comprobar los cambios.
+- Vuelva a mostrar el contenido del mapa para comprobar los cambios.  
 
 ## Estructura
-- `App.java`
+- `App.java`  
   Contiene:
   - Clase estática `Videojuego` (modelo de datos).
   - Método `imprimir(Map<String, Videojuego>)` para listar pares clave–valor.
@@ -23,7 +23,4 @@
 
 ## Ejecución
 ```bash
-
 java App.java
-
-
