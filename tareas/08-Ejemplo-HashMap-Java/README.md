@@ -14,8 +14,6 @@
 - Elimine dos elementos a elección con `remove`.
 - Vuelva a mostrar el contenido del mapa para comprobar los cambios.
 
-> Nota: Si se desea mantener el **orden de inserción** en la impresión, puede usarse `LinkedHashMap` en lugar de `HashMap` sin cambiar la lógica del programa.
-
 ## Estructura
 - `App.java`
   Contiene:
@@ -25,4 +23,5 @@
 
 ## Ejecución
 ```bash
+
 java App.java
