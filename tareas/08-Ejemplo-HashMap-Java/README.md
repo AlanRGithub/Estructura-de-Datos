@@ -1,10 +1,10 @@
 # Tarea 8.- Ejemplo HashMap Java
 
-**Alumno**: Martínez Martínez Alan Rafael
-**Asignatura**: Estructura de Datos
-**Grupo**: 1359
-**Profesor**: Hernández Cabrera Jesús
-**Fecha de Entrega**: 24/10/2025
+**Alumno**: Martínez Martínez Alan Rafael  
+**Asignatura**: Estructura de Datos  
+**Grupo**: 1359  
+**Profesor**: Hernández Cabrera Jesús  
+**Fecha de Entrega**: 24/10/2025  
 
 **Objetivo**: Implementar en Java un catálogo de videojuegos usando la clase `HashMap` de la API Collections que:
 - Defina una clase propia `Videojuego` con `titulo`, `estudio`, `anio` e `id`.
@@ -25,4 +25,5 @@
 ```bash
 
 java App.java
+
 
