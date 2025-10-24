@@ -6,13 +6,15 @@
 **Profesor**: Hernández Cabrera Jesús  
 **Fecha de Entrega**: 24/10/2025
 
-**Objetivo**: Implementar en Java un catálogo de videojuegos usando la clase `HashMap` de la API Collections que:
-- Defina una clase propia `Videojuego` con `titulo`, `estudio`, `anio` e `id`.
-- Inserte 10 objetos `Videojuego` en un `HashMap<String, Videojuego>` usando `put`.
-- Muestre el contenido completo del mapa por consola.
-- Obtenga el valor de dos elementos previamente insertados con `get`.
-- Elimine dos elementos a elección con `remove`.
-- Vuelva a mostrar el contenido del mapa para comprobar los cambios.  
+**Objetivo**:  
+Crear un programa en Java que:
+- Implemente una **tabla hash** con la clase `HashMap` de la API Collections.
+- Cree una clase de tu **elección** (por ejemplo: `Perro` o `Libro`).
+- Inserte **10 elementos** de la clase del **punto** anterior.
+- **Mostrar** el contenido del **HashMap**.
+- Obtener el valor de **dos objetos** previamente insertados.
+- **Eliminar dos objetos** (a tu **elección**).
+- **Mostrar** nuevamente el contenido del **HashMap**.
 
 ## Estructura
 - `App.java`  
