@@ -14,7 +14,7 @@ estructura-de-datos/
 │   └── 06-Cola-de-Pacientes/
 │   └── 07-Balanceo-de-Codigo-Fuente-con-Pila/
 │   └── 08-Ejemplo-HashMap-Java/
-│   └── 09-Arbol-Binario-Busqueda
+│   └── 09-Arbol-Binario-Busqueda/
 │   └── 10-<próximas-tareas>/
 └── README.md
 ```
